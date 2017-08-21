@@ -10,7 +10,7 @@ var people = [
 // person in the `people` array. Assign the returned array to a variable
 // called `peoplesAges`.
 // Type your solution immediately below this line:
-
+people.map(name: "Eric", age: 27)
 
 
 
